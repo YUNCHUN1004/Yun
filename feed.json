@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Yunchun",
     "description": "",
-    "home_page_url": "https://YUNCHUN1004.github.io/yunchun",
-    "feed_url": "https://YUNCHUN1004.github.io/yunchun/feed.json",
+    "home_page_url": "https://YUNCHUN1004.github.io/Yun",
+    "feed_url": "https://YUNCHUN1004.github.io/Yun/feed.json",
     "user_comment": "",
     "author": {
         "name": "yun"
     },
     "items": [
         {
-            "id": "https://YUNCHUN1004.github.io/yunchun/hahaha.html",
-            "url": "https://YUNCHUN1004.github.io/yunchun/hahaha.html",
+            "id": "https://YUNCHUN1004.github.io/Yun/hahaha.html",
+            "url": "https://YUNCHUN1004.github.io/Yun/hahaha.html",
             "title": "hahaha",
             "summary": "so funny :)",
             "content_html": "\n  <p>\n    so funny :)\n  </p>",

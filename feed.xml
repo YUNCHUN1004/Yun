@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Yunchun</title>
-    <link href="https://YUNCHUN1004.github.io/yunchun/feed.xml" rel="self" />
-    <link href="https://YUNCHUN1004.github.io/yunchun" />
+    <link href="https://YUNCHUN1004.github.io/Yun/feed.xml" rel="self" />
+    <link href="https://YUNCHUN1004.github.io/Yun" />
     <updated>2024-03-19T21:12:51+08:00</updated>
     <author>
         <name>yun</name>
     </author>
-    <id>https://YUNCHUN1004.github.io/yunchun</id>
+    <id>https://YUNCHUN1004.github.io/Yun</id>
 
     <entry>
         <title>hahaha</title>
         <author>
             <name>yun</name>
         </author>
-        <link href="https://YUNCHUN1004.github.io/yunchun/hahaha.html"/>
-        <id>https://YUNCHUN1004.github.io/yunchun/hahaha.html</id>
+        <link href="https://YUNCHUN1004.github.io/Yun/hahaha.html"/>
+        <id>https://YUNCHUN1004.github.io/Yun/hahaha.html</id>
 
         <updated>2024-03-19T21:12:51+08:00</updated>
             <summary>
