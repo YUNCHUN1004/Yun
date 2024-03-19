@@ -10,18 +10,46 @@
     },
     "items": [
         {
-            "id": "https://YUNCHUN1004.github.io/Yun/hahaha.html",
-            "url": "https://YUNCHUN1004.github.io/Yun/hahaha.html",
-            "title": "hahaha",
-            "summary": "so funny :)",
-            "content_html": "\n  <p>\n    so funny :)\n  </p>",
+            "id": "https://YUNCHUN1004.github.io/Yun/artworks1.html",
+            "url": "https://YUNCHUN1004.github.io/Yun/artworks1.html",
+            "title": "artworks1",
             "author": {
                 "name": "yun"
             },
             "tags": [
+                   "artworks"
+            ],
+            "date_published": "2024-03-19T22:04:02+08:00",
+            "date_modified": "2024-03-19T22:04:02+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/Yun/artworks.html",
+            "url": "https://YUNCHUN1004.github.io/Yun/artworks.html",
+            "title": "artworks",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://YUNCHUN1004.github.io/Yun/media/posts/3/19.jpg\" alt=\"\" width=\"3300\" height=\"3024\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-xs.jpg 300w ,https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-sm.jpg 480w ,https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-md.jpg 768w ,https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-lg.jpg 1024w\"></figure>",
+            "author": {
+                "name": "yun"
+            },
+            "tags": [
+                   "artworks"
+            ],
+            "date_published": "2024-03-19T22:01:46+08:00",
+            "date_modified": "2024-03-19T22:06:50+08:00"
+        },
+        {
+            "id": "https://YUNCHUN1004.github.io/Yun/hahaha.html",
+            "url": "https://YUNCHUN1004.github.io/Yun/hahaha.html",
+            "title": "hahaha",
+            "summary": "so funny :) wwwwwwwwwwowwwwwwwwwwwww",
+            "content_html": "\n  <p>\n    so funny :)\n  </p>\n\n  <p>\n    wwwwwwwwwwowwwwwwwwwwwww\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://YUNCHUN1004.github.io/Yun/media/posts/1/Ma-Ji-Tu-2.png\" height=\"240\" width=\"240\" alt=\"\"  sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-xs.png 300w ,https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-sm.png 480w ,https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-md.png 768w ,https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-lg.png 1024w\">\n      <figcaption>yaaaa</figcaption>\n    </figure>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "yun"
+            },
+            "tags": [
+                   "about me"
             ],
             "date_published": "2024-03-19T21:12:51+08:00",
-            "date_modified": "2024-03-19T21:12:51+08:00"
+            "date_modified": "2024-03-19T22:22:00+08:00"
         }
     ]
 }

@@ -3,12 +3,42 @@
     <title>Yunchun</title>
     <link href="https://YUNCHUN1004.github.io/Yun/feed.xml" rel="self" />
     <link href="https://YUNCHUN1004.github.io/Yun" />
-    <updated>2024-03-19T21:12:51+08:00</updated>
+    <updated>2024-03-19T22:22:00+08:00</updated>
     <author>
         <name>yun</name>
     </author>
     <id>https://YUNCHUN1004.github.io/Yun</id>
 
+    <entry>
+        <title>artworks1</title>
+        <author>
+            <name>yun</name>
+        </author>
+        <link href="https://YUNCHUN1004.github.io/Yun/artworks1.html"/>
+        <id>https://YUNCHUN1004.github.io/Yun/artworks1.html</id>
+            <category term="artworks"/>
+
+        <updated>2024-03-19T22:04:02+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>artworks</title>
+        <author>
+            <name>yun</name>
+        </author>
+        <link href="https://YUNCHUN1004.github.io/Yun/artworks.html"/>
+        <id>https://YUNCHUN1004.github.io/Yun/artworks.html</id>
+            <category term="artworks"/>
+
+        <updated>2024-03-19T22:01:46+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://YUNCHUN1004.github.io/Yun/media/posts/3/19.jpg" alt="" width="3300" height="3024" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-xs.jpg 300w ,https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-sm.jpg 480w ,https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-md.jpg 768w ,https://YUNCHUN1004.github.io/Yun/media/posts/3/responsive/19-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>hahaha</title>
         <author>
@@ -16,11 +46,12 @@
         </author>
         <link href="https://YUNCHUN1004.github.io/Yun/hahaha.html"/>
         <id>https://YUNCHUN1004.github.io/Yun/hahaha.html</id>
+            <category term="about me"/>
 
         <updated>2024-03-19T21:12:51+08:00</updated>
             <summary>
                 <![CDATA[
-                    so funny :)
+                    so funny :) wwwwwwwwwwowwwwwwwwwwwww
                 ]]>
             </summary>
         <content type="html">
@@ -28,6 +59,19 @@
                 
   <p>
     so funny :)
+  </p>
+
+  <p>
+    wwwwwwwwwwowwwwwwwwwwwww
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://YUNCHUN1004.github.io/Yun/media/posts/1/Ma-Ji-Tu-2.png" height="240" width="240" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-xs.png 300w ,https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-sm.png 480w ,https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-md.png 768w ,https://YUNCHUN1004.github.io/Yun/media/posts/1/responsive/Ma-Ji-Tu-2-lg.png 1024w">
+      <figcaption>yaaaa</figcaption>
+    </figure>
+
+  <p>
+    
   </p>
             ]]>
         </content>
