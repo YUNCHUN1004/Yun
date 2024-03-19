@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yunchun",
+    "description": "",
+    "home_page_url": "https://YUNCHUN1004.github.io/yunchun",
+    "feed_url": "https://YUNCHUN1004.github.io/yunchun/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "yun"
+    },
+    "items": [
+        {
+            "id": "https://YUNCHUN1004.github.io/yunchun/hahaha.html",
+            "url": "https://YUNCHUN1004.github.io/yunchun/hahaha.html",
+            "title": "hahaha",
+            "summary": "so funny :)",
+            "content_html": "\n  <p>\n    so funny :)\n  </p>",
+            "author": {
+                "name": "yun"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-19T21:12:51+08:00",
+            "date_modified": "2024-03-19T21:12:51+08:00"
+        }
+    ]
+}
